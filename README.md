@@ -1,5 +1,5 @@
-# [Creed BoT](https://telegram.me/creedsteam) 
-**An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
+# [ghost_bot](https://telegram.me/ghost_bot_team) 
+**An Edited Bot Based On [ghost](http://github.com/binamfa/ghost_bot) Plugins and Added new and Usefull Plugins to it 
 # Features
 
 * **A powerful Anti spam with custom sensitivity For each group**
@@ -456,7 +456,7 @@ _Sudo users and admins can also use this commands in all groups_
 >> This command Writes your Test in picture and sends it to you
 
 
-New plugins BY : [@Creed_is_dead](http://telegram.me/Creed_is_dead)
+New plugins BY : [@Dawsh_iman](http://telegram.me/ghost_bot_team)
 
 # Installation 
 
@@ -468,8 +468,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot  نحوه نصب ربات : 
 cd $HOME
-git clone https://github.com/Creedsteam/creed.git
-cd creed
+git clone https://github.com/binamfa/ghost_bot.git
+cd ghost_bot
 chmod +x launch.sh
 ./launch.sh install
 
@@ -517,7 +517,7 @@ open file ./data/config.lua
 add your id to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    118682430
+    152046992
     0,
     YourID
   }
@@ -530,25 +530,12 @@ Create a realm using !createrealm command
 # Support and development
 
 Do not contact **us** In private for support.
-Join our bot development group by sending `/join 76950056` to [@Creed_antispam](https://telegram.me/creedantispam_channel)
+Join our bot development group by sending `/join 76950056` to [@Dawsh_saman](https://telegram.me/ghos_bot_team)
 
 _If you are using /join service for first time you have to send it 11 times ( Bot is spam reported )_
 
-# Special thanks to
+# Special thanks to Dawsh_saman
 
-For Creating The [CreedboT](http://github.com/CreedsTeam/Creed)
+For Creating The [ghost_bot](http://github.com/binamfa/ghost)
 
-[@Creed_is_dead](https://telegram.me/Creed_is_dead)
-
-For Managing [@Creed_antispam](https://telegram.me/Creed_antispam) on Telegram
-
-[@Aria_Creed](https://telegram.me/Aria_Creed)
-
-[@Amircc_Creed](https://telegram.me/Amircc_Creed)
-
-[@ArashInfernal](https://telegram.me/ArashInfernal)
-
-For graphic designs
-
-[@Jacki_Pendelton](https://telegram.me/Jacki_Pendelton)
-Our Telegram cahnnels > Persian : [@Creedantispam_Channel](https://telegram.me/creedantispam_Channel)
+[@Dawsh_iman](https://telegram.me/Dawsh_iman)
