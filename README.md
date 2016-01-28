@@ -473,8 +473,7 @@ cd ghost_bot
 chmod +x launch.sh
 ./launch.sh install
 
-و الان به آدرس creed/tg/tgl/structures.c  بروید و در لاین 982 تا5 که چهار خط آبی هست رو پاک کنید و هبارت دو جمله پایینی را وارد کرده و بعدا طبق دستورات پیش بروید 
-go to creed/tg/tgl/structures.c and in line 983 there is 4 Blue sentences Remove them and put this phrase in the place of those Blues :
+go to ghost_bot/tg/tgl/structures.c and in line 983 there is 4 Blue sentences Remove them and put this phrase in the place of those Blues :
 
 case CODE_message_media_unsupported:
 M->type = tgl_message_media_unsupported;
@@ -491,7 +490,7 @@ To install everything in one command on debian-based distros, use: (useful for V
 #https://github.com/yagop/telegram-bot/wiki/Installation
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
- && git clone https://github.com/creedsteam/creed && cd creed && chmod +x launch.sh && ./launch.sh install && cd $home $$ cd creed & cd tg && cd tgl  && nano structures.c
+ && git clone https://github.com/creedsteam/creed && cd creed && chmod +x launch.sh && ./launch.sh install && cd $home $$ cd ghost_bot & cd tg && cd tgl  && nano structures.c
 
 then you have to go to the line 983 there is 4 Blue Line you have to delete them and Put this Sentence in there  : 
 
@@ -536,6 +535,6 @@ _If you are using /join service for first time you have to send it 11 times ( Bo
 
 # Special thanks to Dawsh_saman
 
-For Creating The [ghost_bot](http://github.com/binamfa/ghost)
+For Creating The [Dawsh_iman](http://github.com/binamfa/ghost)
 
 [@Dawsh_iman](https://telegram.me/Dawsh_iman)
