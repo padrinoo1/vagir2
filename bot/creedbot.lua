@@ -239,20 +239,18 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {152046992},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[ghost_bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @Dawsh_iman
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @Dawsh_saman
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -345,7 +343,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+ghost_bots Help for mods : Plugins
 
 Banhammer : 
 
@@ -497,7 +495,7 @@ To Disable the plugin
 
 !plugins + [plugins]
 To enable a plugins
-برای فعال کردن چلاگین توسط سازنده
+برای فعال کردن پلاگین توسط سازنده
 
 !plugins ?
 To reload al plugins
@@ -514,8 +512,8 @@ To send a message to an account by his/her ID
 
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
-To see the stats of creed bot
+!stats ghost_bot (sudoers)✔️
+To see the stats of ghost_bot
 برای دیدن آمار ربات 
 
 !stats
@@ -536,9 +534,9 @@ To tags the every one and sends your message at bottom
 
 〰〰〰〰〰〰〰〰〰
 More plugins  soon ...
-⚠️ We are Creeds ⚠️
+⚠️ We are ghosts ⚠️
 
-our channel : @creedantispam_channel
+our channel : @ghost_bot_team
 کانال ما
 
 You Can user both "!" & "/" for them
