@@ -241,7 +241,7 @@ function create_config( )
     },
     sudo_users = {152046992},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {108061169},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[ghost_bot 2.3
     
